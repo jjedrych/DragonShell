@@ -1,6 +1,6 @@
 # DragonShell
 
-A simple and easy to use Linux Shell
+An easy to use Linux Shell
 
 ## Design Choices
 
